@@ -21,7 +21,7 @@
 
 'use strict';
 
-const process = require('process'):
+const process = require('process');
 var isWindows = process.platform === 'win32';
 var util = require('util');
 
